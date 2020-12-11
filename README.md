@@ -10,7 +10,7 @@ Place to hone your data science problem-solving skills !! time to conquer the pr
   * Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics
   
 # Context:
-  * Data-Sprints/Datathons:
+   * **Data-Sprints/Datathons:**
      * Abalone : Determine the age of Abalone from the physical measurements
         * Algorithms Used : RandomForest, XG Boost
         * Result : Least RMSE Value on Test DataSet is 2.057884

@@ -20,6 +20,6 @@ Place to hone your data science problem-solving skills !! time to conquer the pr
      * Compressive Strength of Concrete : Estimate Compressive Strength of Concrete
         * Algorithm Used : RandomForest, Gradient Boost, XG Boost
         * Result : Least RMSE Value on Test DataSet is 3.92
-  * SDS Club Challenges:
+  * **SDS Club Challenges:**
      * Car Price : To determine the price of its used cars.
         * Algorithms Used : Linear Regression, Decision Tree, Random Forest
